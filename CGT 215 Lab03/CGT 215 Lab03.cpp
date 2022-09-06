@@ -1,5 +1,7 @@
-// CGT 215 Lab03.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// CGT 215 Lab03.cpp : 
+// This file contains the 'main' function. 
+// Program execution begins and ends there.
+// Written by Matthew Rust 9/6/2022
 
 #include <iostream>
 
